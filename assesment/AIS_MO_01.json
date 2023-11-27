@@ -1,7 +1,7 @@
 {
 "instruction_set":[
   {
-    "description": "TestCase 1: Verify the Homepage URL and Initial Display.Navigate to google website",
+    "description": " Verify the Homepage URL and Initial Display.Navigate to google website",
     "validations": [
       {
         "object_notation": "COMMAND",
